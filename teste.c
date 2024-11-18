@@ -18,3 +18,13 @@ int main(){
     printf("\t\tVerificacao de registros %d", r);
     return 0;
 }
+
+//Tabela:
+//ID de caso teste:
+//lg_login_001.
+//Titúlo:
+//Verificar a funcionalidade de login com credenciais válidas.
+//Objetivo:
+//Ter certeza que o sistema consegue barrar acessos incorretos e assegurar acessos corretos.
+//Pre-condições:
+//Usuario deve cadastrar o codigo de entrada correto para adentrar o sistema.
