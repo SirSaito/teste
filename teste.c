@@ -15,6 +15,6 @@ int main(){
     printf("\t\tEntre seu registro na locadora:\n");
     scanf("%d", &r);
     registro_teste(r);
-    printf("\t\tVerificacao de registros");
+    printf("\t\tVerificacao de registros %d", r);
     return 0;
 }
